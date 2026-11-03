@@ -223,4 +223,4 @@ Pencil is offered as a full free version with all features and updates included.
 Ready to unleash your creativity? Download Pencil now and start your animation journey today!
 
 ---
-**Last updated:** 2026-11-03 07:37:46 UTC
+**Last updated:** 2026-11-03 15:52:34 UTC
